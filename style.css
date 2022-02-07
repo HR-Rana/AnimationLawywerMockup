@@ -872,9 +872,9 @@ section{
     justify-content: space-between;
 }
 .comment-footer .icon{
-	font-size: 20px;
+	font-size: 18px;
 	transition: .5s;
-    color:var(--primary-color);
+    color:var(--secondary-color);
 }
 .icon i:hover{
 	color: var(--secondary-color);
@@ -1013,5 +1013,7 @@ section{
     animation-timing-function: linear;
 
 }
-
+.massege-icon i:hover{
+    cursor: pointer;
+}
 
