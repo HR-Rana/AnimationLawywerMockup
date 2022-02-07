@@ -867,13 +867,14 @@ section{
 	justify-content: space-between;
 }
 .comment-footer .social-icon{
-    width: 60%;
+    width: 50%;
     margin: 0 auto;
     justify-content: space-between;
 }
 .comment-footer .icon{
 	font-size: 20px;
 	transition: .5s;
+    color:var(--primary-color);
 }
 .icon i:hover{
 	color: var(--secondary-color);
